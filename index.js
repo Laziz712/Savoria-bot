@@ -2,7 +2,7 @@ window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-G25ZFYES4S');
+  gtag('config', 'G-5F427474HP');
 
 const TelegramBot = require("node-telegram-bot-api");
 
@@ -104,4 +104,5 @@ bot.on("callback_query", (query) => {
 
 
     bot.answerCallbackQuery(query.id);
+
 });
