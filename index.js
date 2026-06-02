@@ -2,7 +2,7 @@ const TelegramBot = require("node-telegram-bot-api");
 const express = require('express');
 require('dotenv').config();
 
-const token = process.env.BOT_TOKEN || "8129270648:AAEkWJ7DrkvoGCXRVPYMDaES1sAQG3JZ9CQ"; 
+const token = process.env.BOT_TOKEN || "8129270648:AAHKAXcyVTOhPEgebXtQqqe28OSDjMtnZv4"; 
 const ADMIN_ID = "8584049635";
 
 const bot = new TelegramBot(token);
