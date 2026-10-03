@@ -19,7 +19,7 @@ if (!TOKEN || ADMIN_IDS.length === 0) {
 const RESTAURANT = {
     name: 'Savoria Restaurant',
     site: 'https://savoria-restaurant.uz',
-    instagram: 'https://www.instagram.com/shavkatov.o07/',
+    instagram: 'https://www.instagram.com/shavkatovv.o07/',
     telegram: '@lazizshavkatov712',
     phones: ['+998 71 271 07 82', '+998 71 345 07 82', '+998 71 954 07 82'],
     hours: 'Du–Pay: 11:00–22:00\nJu–Sha: 11:00–23:00\nYak: 11:00–21:00',
